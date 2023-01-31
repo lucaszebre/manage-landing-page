@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lucaszebre/manage-landing-page/static/css/main.36a028c8.css",
+    "main.js": "/lucaszebre/manage-landing-page/static/js/main.5782b64a.js",
+    "static/media/illustration-intro.svg": "/lucaszebre/manage-landing-page/static/media/illustration-intro.cb9a8a9551ca99f99a125230d38a2c36.svg",
+    "index.html": "/lucaszebre/manage-landing-page/index.html",
+    "static/media/bg-simplify-section-desktop.svg": "/lucaszebre/manage-landing-page/static/media/bg-simplify-section-desktop.ca40c1eebd150b1cc7dc266ce0b13d87.svg",
+    "static/media/icon-hamburger.svg": "/lucaszebre/manage-landing-page/static/media/icon-hamburger.8dcf47cc6f3180ad040f1173f3592504.svg",
+    "main.36a028c8.css.map": "/lucaszebre/manage-landing-page/static/css/main.36a028c8.css.map",
+    "main.5782b64a.js.map": "/lucaszebre/manage-landing-page/static/js/main.5782b64a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36a028c8.css",
+    "static/js/main.5782b64a.js"
+  ]
+}
